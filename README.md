@@ -7,11 +7,11 @@
 
 Speech Emotion Recognition (SER), is the act of attempting to recognize human emotion and affective states from speech. Emotion recognition is the part of speech recognition which is gaining more popularity and need for it increases enormously. It is used in call center for classifying calls according to emotions and can be used as the performance parameter for conversational analysis thus identifying the unsatisfied customer, customer satisfaction and so on for helping companies improving their services. It can also be used in-car board system based on information of the mental state of the driver can be provided to the system to initiate his/her safety preventing accidents to happen.
 
-#Verbal Communication Quality Monitoring & Feedback System
+# Verbal Communication Quality Monitoring & Feedback System
 
 Verbal communication include sounds, words, language, and speech. Speaking is an effective way of communicating and helps in expressing our emotions in words. Building a real-time demo of quality monitoring of verbal communication & feedback system with the help of speech emotion recognition(deep learning) & streamlit. Speech is the most natural way of expressing ourselves as humans. It is only natural then to extend this communication medium to computer applications. We define speech emotion recognition (SER) systems as a collection of methodologies that process and classify speech signals to detect the embedded emotions.
 
-#Datasets:
+# Datasets:
 
 1.Ryerson Audio-Visual Database of Emotional Speech (Ravdess):
 This dataset includes around 1500 audio file input from 24 different actors. 12 male and 12 female where these actors record short audios in 8 different emotions i.e. 1 = neutral, 2 = calm, 3 = happy, 4 = sad, 5 = angry, 6 = fearful, 7 = disgust, 8 = surprised. Each audio file is named in such a way that the 7th character is consistent with the different emotions that they represent.
