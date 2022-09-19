@@ -11,7 +11,7 @@ Speech Emotion Recognition (SER), is the act of attempting to recognize human em
 
 Verbal communication include sounds, words, language, and speech. Speaking is an effective way of communicating and helps in expressing our emotions in words. Building a real-time demo of quality monitoring of verbal communication & feedback system with the help of speech emotion recognition(deep learning) & streamlit. Speech is the most natural way of expressing ourselves as humans. It is only natural then to extend this communication medium to computer applications. We define speech emotion recognition (SER) systems as a collection of methodologies that process and classify speech signals to detect the embedded emotions.
 
-# Datasets:
+** Datasets: **
 
 1.Ryerson Audio-Visual Database of Emotional Speech (Ravdess):
 This dataset includes around 1500 audio file input from 24 different actors. 12 male and 12 female where these actors record short audios in 8 different emotions i.e. 1 = neutral, 2 = calm, 3 = happy, 4 = sad, 5 = angry, 6 = fearful, 7 = disgust, 8 = surprised. Each audio file is named in such a way that the 7th character is consistent with the different emotions that they represent.
@@ -19,7 +19,7 @@ This dataset includes around 1500 audio file input from 24 different actors. 12 
 2.Surrey Audio-Visual Expressed Emotion (Savee):
 This dataset contains around 500 audio files recorded by 4 different male actors. The first two characters of the file name correspond to the different emotions that the portray.
 
-**Emotions in Datasets:**
+** Emotions in Datasets: **
 
 ● Neutral ● Happy ● Sad ● Angry ● Fear ● Disgust ● Surprise
 
@@ -27,7 +27,7 @@ This dataset contains around 500 audio files recorded by 4 different male actors
 
 Data augmentation is the process by which we create new synthetic data samples by adding small perturbations on our initial training set. It is a key ingredient of the state-of-the-art systems for speech recognition. Some ways for data augmentation in sound data: - ● Noise injection ● Stretching ● Shifting ● Pitching
 
-**Feature Extraction**
+** Feature Extraction **
 
 Extraction of features is a very important part in analyzing and finding relations between different things. As we already know that the data provided of audio cannot be understood by the models directly so we need to convert them into an understandable format for which feature extraction is used.
 
