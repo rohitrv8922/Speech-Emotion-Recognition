@@ -39,7 +39,7 @@ Used just 3 main features [ZCR, RMS and MFCC] for this task after experimenting 
 
 3. MFCC: Mel-frequency Cepstral coefficients (MFCCs) are the signal coefficients that are collected to forms MFC. The Mel-frequency cepstrum different from cepstrum in the frequency bands which are equally divided on the Mel scale. MFCCs are rigorously used as features in speech recognition systems. Mel Frequency Cepstral Coefficients form a cepstral representation where the frequency bands are not linear but distributed according to the Mel-scale.
 
-#Conclusion
+# Conclusion
 
 Deep learning can be used in Verbal Communication Quality Monitoring & Feedback System to process audio data in real time. With speech emotion recognition, It can identify or predict speech emotion after recording audio or drag & drop audio files. Speech emotion recognition system can identify the mental state of user, conversational analysis to improve customer satisfaction. Overall achieved 92% accuracy on test data but we can improve it more by adding more audio data, applying more augmentation techniques and using other feature extraction methods.
 
